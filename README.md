@@ -19,7 +19,7 @@ git clone https://github.com/JECSand/indeed_api_search.git
 ```R
 python indeed_jobs_py2.py job city
 ```
-or
+  or
 ```R
 python3 indeed_jobs_py3.py job city
 ```
